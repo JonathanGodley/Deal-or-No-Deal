@@ -1,0 +1,13 @@
+4|50000.0|false
+10|10000.0|false
+8|1000.0|false
+11|200.0|false
+9|1.0|false
+7|5000.0|false
+1|0.5|false
+6|2000.0|false
+12|10.0|false
+2|100.0|false
+5|20000.0|false
+3|500.0|false
+124|1|4

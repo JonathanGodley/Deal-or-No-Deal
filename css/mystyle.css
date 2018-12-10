@@ -1,0 +1,37 @@
+/*
+// mystyle.css
+// Simple CSS for Deal or No Deal game
+//
+// Programmer:  Jonathan Godley - c3188072
+// Course: SENG2050
+// Last modified:  2/05/2018
+*/
+
+body {
+  text-align: center;
+}
+
+head {
+  text-align: center;
+}
+
+table.briefcases, th.briefcase, td.briefcase {
+  border: 1px solid black;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+th.briefcase, td.briefcase {
+  text-align: center;
+  height: 100px;
+  width: 100px;
+}
+
+td:hover {
+  background-color: #f5f5f5;
+}
